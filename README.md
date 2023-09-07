@@ -24,3 +24,5 @@ Node-Farm is a mini project built with Node.js and the File System module that s
 
 ![Inner_image1](https://github.com/karuna-sagar/Node-Farm/assets/128089073/d321ad97-3678-45d7-9859-c818062d0e51)
 ![Inner_image2](https://github.com/karuna-sagar/Node-Farm/assets/128089073/1c4b1373-b5ee-4856-89c4-8aa2fd8f9d97)
+![Carrot](https://github.com/karuna-sagar/Node-Farm/assets/128089073/76bbad82-98fd-467f-8d0b-0e9cc5e62305)
+![carrot2](https://github.com/karuna-sagar/Node-Farm/assets/128089073/68ea4950-f95b-47b1-8cc4-5978381b9116)
