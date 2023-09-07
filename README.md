@@ -1,6 +1,6 @@
 # Node-Farm 🚜🌽
 
-Node-Farm is a mini project built with Node.js and the File System module that simulates a farm. Users can browse various farm items, view details about vegetables, and even make a purchase.
+Node-Farm is a mini project built with Node.js and the File System module that simulates a farm. Users can browse various farm items, view details about vegetables.
 
 ## Technologies Used 🛠️
 
