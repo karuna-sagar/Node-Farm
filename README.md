@@ -7,6 +7,7 @@ Node-Farm is a mini project built with Node.js and the File System module that s
 - HTML
 - CSS
 - Node.js
+- Javascript
 - File System
 
 ## Key Features 🌟
